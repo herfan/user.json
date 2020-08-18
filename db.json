@@ -1,0 +1,70 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "user 1 (satu)",
+          "alamat": "jalan 1",
+          "role": "Backend Developer"
+        },
+        {
+          "id": 2,
+          "nama": "user 2",
+          "alamat": "jalan 2",
+          "role": "Frontend Developer"
+        },
+        {
+          "id": 3,
+          "nama": "user 3",
+          "alamat": "jalan 3",
+          "role": "SQL Developer"
+        },
+        {
+          "id": 4,
+          "nama": "user 4",
+          "alamat": "jalan 4",
+          "role": "Project Manager"
+        },
+        {
+          "id": 5,
+          "nama": "user 5",
+          "alamat": "jalan 5",
+          "role": "System Aalyst"
+        },
+        {
+          "id": 6,
+          "nama": "user 6",
+          "alamat": "jalan 6",
+          "role": "System Aalyst"
+        },
+        {
+          "id": 7,
+          "nama": "user 7",
+          "alamat": "jalan 7",
+          "role": "System Aalyst"
+        },
+        {
+          "id": 8,
+          "nama": "user 8",
+          "alamat": "jalan 8",
+          "role": "System Aalyst"
+        },
+        {
+          "id": 9,
+          "nama": "user 9",
+          "alamat": "jalan 9",
+          "role": "System Aalyst"
+        },
+        {
+          "id": 10,
+          "nama": "user 10",
+          "alamat": "jalan 10",
+          "role": "System Aalyst"
+        },
+        {
+          "id": 11,
+          "nama": "user 11",
+          "alamat": "jalan 11",
+          "role": "System Aalyst"
+        }
+      ]
+}
